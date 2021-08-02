@@ -1,0 +1,13 @@
+C:\Users\Aris\source\repos\textSpam\textSpam\bin\Debug\textSpam.exe.config
+C:\Users\Aris\source\repos\textSpam\textSpam\bin\Debug\textSpam.exe
+C:\Users\Aris\source\repos\textSpam\textSpam\bin\Debug\textSpam.pdb
+C:\Users\Aris\source\repos\textSpam\textSpam\obj\Debug\textSpam.Form1.resources
+C:\Users\Aris\source\repos\textSpam\textSpam\obj\Debug\textSpam.Properties.Resources.resources
+C:\Users\Aris\source\repos\textSpam\textSpam\obj\Debug\textSpam.csproj.GenerateResource.cache
+C:\Users\Aris\source\repos\textSpam\textSpam\obj\Debug\textSpam.csproj.CoreCompileInputs.cache
+C:\Users\Aris\source\repos\textSpam\textSpam\obj\Debug\textSpam.exe
+C:\Users\Aris\source\repos\textSpam\textSpam\obj\Debug\textSpam.pdb
+C:\Users\Aris\source\repos\textSpam\textSpam\obj\Debug\textSpam.csprojAssemblyReference.cache
+D:\VisualProjects\textSpam\textSpam\obj\Debug\textSpam.csproj.AssemblyReference.cache
+D:\VisualProjects\textSpam\textSpam\obj\Debug\TextSpam.exe
+D:\VisualProjects\textSpam\textSpam\obj\Debug\TextSpam.pdb
