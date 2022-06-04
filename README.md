@@ -7,8 +7,8 @@
 
 
 
-###### Write something and press start , click somewhere
-
+###### Write something and press "start"
+###### Then click somewhere
 ###### To stop press "stop"
 
 
